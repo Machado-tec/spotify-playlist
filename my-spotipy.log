@@ -1,0 +1,77 @@
+2023-04-27 15:15:04,203 - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2023-04-27 15:15:05,192 - Opened https://accounts.spotify.com/authorize?client_id=5143f7be338b4c468abec9fd9f12004a&response_type=code&redirect_uri=spofity.com&scope=playlist-modify-public in your browser
+2023-04-27 15:18:49,928 - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2023-04-27 15:19:23,592 - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2023-04-27 15:19:30,695 - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2023-04-27 15:19:31,075 - Opened https://accounts.spotify.com/authorize?client_id=5143f7be338b4c468abec9fd9f12004a&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8000%2Fcallback&scope=playlist-modify-public in your browser
+2023-04-27 15:19:36,490 - HTTP Error for POST to https://api.spotify.com/v1/users/adriano@sol.app.br/playlists with Params: {} returned 404 due to Invalid username
+2023-04-27 15:19:46,489 - HTTP Error for POST to https://api.spotify.com/v1/users/adriano@sol.app.br/playlists with Params: {} returned 404 due to Invalid username
+2023-04-27 15:19:57,259 - HTTP Error for POST to https://api.spotify.com/v1/users/adriano@sol.app.br/playlists with Params: {} returned 404 due to Invalid username
+2023-04-27 15:21:42,177 - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2023-04-27 15:21:42,659 - Opened https://accounts.spotify.com/authorize?client_id=5143f7be338b4c468abec9fd9f12004a&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8000%2Fcallback&scope=playlist-modify-public in your browser
+2023-04-27 15:21:43,472 - HTTP Error for POST to https://api.spotify.com/v1/users/adriano/playlists with Params: {} returned 403 due to You cannot create a playlist for another user.
+2023-04-27 15:22:29,162 - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2023-04-27 15:22:29,541 - Opened https://accounts.spotify.com/authorize?client_id=5143f7be338b4c468abec9fd9f12004a&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8000%2Fcallback&scope=playlist-modify-public in your browser
+2023-04-27 15:22:30,586 - New playlist Xadrak Rock da Eternidade created
+2023-04-27 15:22:31,003 - Found album Hybrid Theory by Linkin Park
+2023-04-27 15:22:31,247 - Added tracks from album Hybrid Theory by Linkin Park to the playlist
+2023-04-27 15:22:31,720 - Found album Nevermind by Nirvana
+2023-04-27 15:22:31,985 - Added tracks from album Nevermind by Nirvana to the playlist
+2023-04-27 15:22:32,403 - Found album Appetite for Destruction by Guns N’ Roses
+2023-04-27 15:22:32,652 - Added tracks from album Appetite for Destruction by Guns N’ Roses to the playlist
+2023-04-27 15:22:33,003 - Found album Californication by Red Hot Chili Peppers
+2023-04-27 15:22:33,259 - Added tracks from album Californication by Red Hot Chili Peppers to the playlist
+2023-04-27 15:22:33,612 - Found album A Night at the Opera by Queen
+2023-04-27 15:22:33,855 - Added tracks from album A Night at the Opera by Queen to the playlist
+2023-04-27 15:22:34,287 - Found album Meteora by Linkin Park
+2023-04-27 15:22:34,541 - Added tracks from album Meteora by Linkin Park to the playlist
+2023-04-27 15:22:34,994 - Found album Metallica by Metallica
+2023-04-27 15:22:35,246 - Added tracks from album Metallica by Metallica to the playlist
+2023-04-27 15:22:35,616 - Found album Pray for the Wicked by Panic! At The Disco
+2023-04-27 15:22:35,862 - Added tracks from album Pray for the Wicked by Panic! At The Disco to the playlist
+2023-04-27 15:22:36,171 - Found album Back in Black by AC/DC
+2023-04-27 15:22:36,419 - Added tracks from album Back in Black by AC/DC to the playlist
+2023-04-27 15:22:36,797 - Found album Death of a Bachelor by Panic! At The Disco
+2023-04-27 15:22:37,068 - Added tracks from album Death of a Bachelor by Panic! At The Disco to the playlist
+2023-04-27 15:22:37,420 - Found album Toxicity by System Of A Down
+2023-04-27 15:22:37,669 - Added tracks from album Toxicity by System Of A Down to the playlist
+2023-04-27 15:22:38,054 - Found album The Black Parade by My Chemical Romance
+2023-04-27 15:22:38,337 - Added tracks from album The Black Parade by My Chemical Romance to the playlist
+2023-04-27 15:22:38,616 - Found album American Beauty/American Psycho by Fall Out Boy
+2023-04-27 15:22:38,852 - Added tracks from album American Beauty/American Psycho by Fall Out Boy to the playlist
+2023-04-27 15:22:39,208 - Found album Stadium Arcadium by Red Hot Chili Peppers
+2023-04-27 15:22:39,529 - Added tracks from album Stadium Arcadium by Red Hot Chili Peppers to the playlist
+2023-04-27 15:22:39,865 - Found album The Wall by Pink Floyd
+2023-04-27 15:22:40,137 - Added tracks from album The Wall by Pink Floyd to the playlist
+2023-04-27 15:22:40,442 - Found album Slippery When Wet by Bon Jovi
+2023-04-27 15:22:40,685 - Added tracks from album Slippery When Wet by Bon Jovi to the playlist
+2023-04-27 15:22:41,076 - Found album The Game by Queen
+2023-04-27 15:22:41,331 - Added tracks from album The Game by Queen to the playlist
+2023-04-27 15:22:41,718 - Found album American Idiot by Green Day
+2023-04-27 15:22:41,971 - Added tracks from album American Idiot by Green Day to the playlist
+2023-04-27 15:22:42,419 - Found album Jazz by Queen
+2023-04-27 15:22:42,658 - Added tracks from album Jazz by Queen to the playlist
+2023-04-27 15:22:43,032 - Found album By the Way by Red Hot Chili Peppers
+2023-04-27 15:22:43,285 - Added tracks from album By the Way by Red Hot Chili Peppers to the playlist
+2023-04-27 15:22:43,575 - Found album Enema of the State by Blink-182
+2023-04-27 15:22:43,815 - Added tracks from album Enema of the State by Blink-182 to the playlist
+2023-04-27 15:22:44,254 - Found album Escape by Journey
+2023-04-27 15:22:44,495 - Added tracks from album Escape by Journey to the playlist
+2023-04-27 15:22:44,820 - Found album Blood Sugar Sex Magik by Red Hot Chili Peppers
+2023-04-27 15:22:45,099 - Added tracks from album Blood Sugar Sex Magik by Red Hot Chili Peppers to the playlist
+2023-04-27 15:22:45,513 - Found album Minutes to Midnight by Linkin Park
+2023-04-27 15:22:45,749 - Added tracks from album Minutes to Midnight by Linkin Park to the playlist
+2023-04-27 15:22:46,093 - Found album News of the World by Queen
+2023-04-27 15:22:46,350 - Added tracks from album News of the World by Queen to the playlist
+2023-04-27 15:22:46,695 - Found album Save Rock and Roll by Fall Out Boy
+2023-04-27 15:22:46,944 - Added tracks from album Save Rock and Roll by Fall Out Boy to the playlist
+2023-04-27 15:22:47,285 - Found album Dookie by Green Day
+2023-04-27 15:22:47,579 - Added tracks from album Dookie by Green Day to the playlist
+2023-04-27 15:22:47,939 - Found album The Dark Side of the Moon by Pink Floyd
+2023-04-27 15:22:48,180 - Added tracks from album The Dark Side of the Moon by Pink Floyd to the playlist
+2023-04-27 15:22:48,510 - Found album Led Zeppelin IV by Led Zeppelin
+2023-04-27 15:22:48,754 - Added tracks from album Led Zeppelin IV by Led Zeppelin to the playlist
+2023-04-27 15:22:49,125 - Found album Ten by Pearl Jam
+2023-04-27 15:22:49,369 - Added tracks from album Ten by Pearl Jam to the playlist
+2023-04-27 15:22:50,766 - All tracks added to the playlist
+2023-04-27 15:22:50,768 - Playlist tracks saved to file
